@@ -1,0 +1,19 @@
+h2 {
+  color:red;
+  text-align: center;
+  cursor:pointer;
+}
+
+p{
+  color:pink;
+}
+
+body {
+  background-image:url(market-trend.jpg);
+  background-size: cover;
+}
+
+li{
+  list-stype:none;
+  display:inline-block;
+}
